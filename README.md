@@ -1,0 +1,2 @@
+# macine_learning
+scikitlearnを用いた機械学習の練習を行う
